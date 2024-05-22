@@ -19,7 +19,7 @@
     alt="Website Badge" />
 </p>
 
-For CPTS 302 at WSU, our team was tasked with performing a group case study to increase our awareness of the issues and dilemmas surrounding professional topics. Our topic of choice was RFID tag implants in humans and the ethical concerns corresponding to that.
+While learning about Professional Skills in Computing and Engineering I had a project with a team of six people. Our team was tasked with performing a group case study to increase our awareness of the issues and dilemmas surrounding professional topics. Our topic of choice was RFID tag implants in humans and the ethical concerns corresponding to that.
 
 ![project image](resources/rfid-image.jpg)
 
@@ -80,3 +80,6 @@ Our team presented the findings of our report, highlighting the ethical concerns
 12. The Privacy Act of 1974 5 U.S.C. § 552a, the United States Department of Justice https://www.govinfo.gov/content/pkg/USCODE-2018-title5/pdf/USCODE-2018-title5-partI-chap5-subchapII-sec552a.pdf.
 13. Greenleaf, Graham. "Global Tables of Data Privacy Laws and Bills (7th Ed, January 2021)." (2021) 169 Privacy Laws & Business International Report. 6-19, Available at SSRN: https://ssrn.com/abstract=3836261 or http://dx.doi.org/10.2139/ssrn.3836261.
 
+--- 
+# Acknowledgments
+This report and all supporting materials was made as apart of a course for my undergrad at WSU for CPTS 302 - Professional Skills in Computing and Engineering in the Spring of 2022. 
