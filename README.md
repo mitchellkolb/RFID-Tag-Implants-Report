@@ -23,6 +23,30 @@ While learning about Professional Skills in Computing and Engineering I had a pr
 
 ![project image](resources/rfid-image.jpg)
 
+
+---
+
+# Table of Contents
+- [What I Learned in this Project](#what-i-learned-in-this-project)
+- [Tools Used in this Project](#tools-used-in-this-project)
+- [Development Environment](#development-environment)
+- [Team / Contributors / Teachers](#team--contributors--teachers)
+- [Report Overview](#report-overview)
+  - [Introduction](#introduction)
+  - [Case Summary](#case-summary)
+  - [Ethical Analysis](#ethical-analysis)
+  - [Recommendations](#recommendations)
+  - [Presentation](#presentation)
+- [References](#references)
+- [Acknowledgments](#acknowledgments)
+
+---
+
+# What I Learned in this Project
+- How to use Asana in a team project effectively.
+- The ability to recognize ethical and professional responsibilities in engineering and computing situations and make informed judgments based on legal and ethical principles and with consideration of global, economic, environmental, and societal impacts.
+- Writing a research/results style paper in the IEEE format.
+
 # Tools Used in this Project
 - Google Docs (Draft)
 - Microsoft Word (Final Draft)
